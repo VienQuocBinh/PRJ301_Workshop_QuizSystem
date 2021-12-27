@@ -1,0 +1,24 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Dec 23, 2021, 10:58:26 AM
+    Author     : LucasBV
+*/
+
+.border-quiz {
+  border: buttonface solid 1px;
+  padding: 10px;
+}
+.border-quiz-done {
+  background-color: #43A047;
+  border: buttonface solid 1px;
+  padding: 10px;
+}
+
+table{
+    background: #ccffcc;
+}
+
+
