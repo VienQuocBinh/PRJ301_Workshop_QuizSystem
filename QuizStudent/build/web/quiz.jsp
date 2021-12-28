@@ -50,7 +50,6 @@
                 <tr>
                     <th>Number</th>
                     <th>Question</th>
-                    <th>Answer</th>
                     <th>Your answer</th>
 
                 </tr>
@@ -62,11 +61,6 @@
                         <td>${count.count}</td>
                         <td>${question.content}</td>
 
-                        <c:forEach var="listAnswer" items="${question.listAnswer}">
-                            <c:if test="${listAnswer.isCorrectAnswer == true}">
-                                <td>${listAnswer.content}</td>
-                            </c:if> 
-                        </c:forEach>
 
                         <c:forEach var="questionDoneID" items="${sessionScope.LIST_QUESTION_DONE}">
                             <c:if test="${questionDoneID == question.questionID}">
