@@ -39,4 +39,5 @@ Use teacher name to login
 
 This page shows the result of all students done Quiz
 Note: Must show 0.00% if that student did not do anything. Or 0.00% if the question was not done by any students
-![image](https://user-images.githubusercontent.com/91947000/147579536-c8f31432-9f30-44d8-b96a-5fe868d225a5.png)
+
+![image](https://user-images.githubusercontent.com/91947000/147579889-00117c4f-ddbf-4a77-9ad3-819856a051fc.png)
