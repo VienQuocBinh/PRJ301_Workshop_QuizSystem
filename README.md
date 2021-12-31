@@ -27,17 +27,18 @@
 * Quiz Teacher
   - Login name
 
-      Use teacher name to login
+      Use teacher name to login.
 
       ![image](https://user-images.githubusercontent.com/91947000/147579628-a280281c-4d8b-41c2-bc63-14a0649a631c.png)
 
-  - List the Quizes that onwed by that teacher
+  - List the Quizes that onwed by that teacher.
 
       ![image](https://user-images.githubusercontent.com/91947000/147579708-c071d1aa-3d98-475b-bcc4-6f8c64f4caff.png)
 
   - Result
 
-      This page shows the result of all students done Quiz
-      Note: Must show 0.00% if that student did not do anything. Or 0.00% if the question was not done by any students
+      This page shows the result of all students done Quiz.
+      
+      Note: Must show 0.00% if that student did not do anything. Or 0.00% if the question was not done by any students.
 
       ![image](https://user-images.githubusercontent.com/91947000/147579889-00117c4f-ddbf-4a77-9ad3-819856a051fc.png)
